@@ -1,0 +1,5 @@
+{
+  "name": "SonicWave AI",
+  "description": "An interactive audio visualizer with AI-powered themes and GIF export.",
+  "requestFramePermissions": []
+}
